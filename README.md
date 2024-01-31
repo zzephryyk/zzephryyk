@@ -4,7 +4,7 @@ Welcome to my GitHub profile! I'm passionate about software development and an o
 
 ## About Me
 
-- 👦 Software developer at 15 years old.
+- 👦 15 years old.
 - 🌱 Currently, I'm learning new technologies and development techniques.
 - 💼 I've worked with FastAPI and Flask on API development projects.
 - ⚙️ I love automation and analyzers.
