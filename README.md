@@ -7,7 +7,7 @@ Welcome to my GitHub profile! I'm passionate about software development and an o
 - 👦 Software developer at 15 years old.
 - 🌱 Currently, I'm learning new technologies and development techniques.
 - 💼 I've worked with FastAPI and Flask on API development projects.
-- ⚙️ I love automation and building analyzers.
+- ⚙️ I love automation and analyzers.
 - ❤️ I enjoy contributing to open-source projects and collaborating with the community.
 
 ## Technologies I Like
