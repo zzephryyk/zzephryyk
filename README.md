@@ -13,7 +13,6 @@ Welcome to my GitHub profile! I'm passionate about software development and an o
 ## Technologies I Like
 
 - Python
-- PHP
 - FastAPI
 - Flask
 - And More...
