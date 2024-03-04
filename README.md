@@ -1,6 +1,6 @@
 # Hello! 👋 I'm Zzephryyk
 
-Welcome to my GitHub profile! I'm passionate about software development and an open source enthusiast. Here you'll find some of my projects, mostly written in Python and a bit of PHP.
+Welcome to my GitHub profile! I'm passionate about software development and an open source enthusiast. Here you'll find some of my projects, mostly written in Python.
 
 ## About Me
 
